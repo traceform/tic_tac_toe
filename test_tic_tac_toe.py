@@ -1,4 +1,4 @@
-from test import victory_for
+from tic_tac_toe import victory_for
 
 # Global variables
 PLAYER_SIGN = 'O'
