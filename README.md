@@ -1,6 +1,6 @@
 ## Tic Tac Toe
 
-A program that lets you play Tic Tac Toe against the computer.
+A simple program that lets you play Tic Tac Toe against the computer.
 
 ## How to run
 ```bash
