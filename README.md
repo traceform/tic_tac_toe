@@ -8,7 +8,7 @@ python tic-tac-toe.py
 ```
 
 ## Features
-- You can choose which sign to use by changing the global variables in the code
+- You can change the default signs for the computer and the user by modifying the global variables in the code
 
 ## Future
 - Add a more challenging mode
